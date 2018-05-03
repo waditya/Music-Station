@@ -7,4 +7,4 @@ I'm fetching the data from JSON file using AJAX call and displaying the data to 
 User can select instruments of his choice and fill the information on next page.
 When the information is complete, user can proceed to buy the instrument.
 
-Technologies used are: HTML5, CSS3, Bootstrap, AngularJS, jQuery, AJAX, JavaScript.
+Technologies used are: HTML5, CSS3, Bootstrap, AngularJS, jQuery, AJAX, JavaScript...
